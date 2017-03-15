@@ -1,0 +1,21 @@
+
+*{margin:0}
+body{font-family:century gothic;}
+.nav-right{justify-content:flex-end;margin-right:50px;}
+.nav li{display:inline-block;padding:15px;height:20px;
+}
+
+
+.icon{width:120px;height:50px;padding-right:900px;padding-top:20px;}
+.list{width:50px;margin:8px;}
+#section1 {width:100%;height:100vh;
+ background-color:#50B686;
+  flex-direction:row;
+  align-items:center;
+}
+.flexbox{display:flex;}
+#text1{flex-direction:column; margin-left:20%;}
+#home-image{margin-left:8%}
+#home-image img{height:100vh;}
+.h1{font-family:arial;color:white;font-size:95px;text-shadow:2px 2px 7px black;letter-spacing:8px;font-weight:600;}
+.introduction{font-size:40px;color:#234E41;letter-spacing:2px}
