@@ -52,3 +52,4 @@ button{width:90px;
   font-weight:600;
   font-size:18px;
 }
+button:hover{box-shadow:4px 4px 5px 3px rgba(100%,100%,100%,0.5)}
