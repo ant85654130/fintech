@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>fintech1</title>
+  
+  
+  
+      <link rel="stylesheet" type="text/css" href="index.css">
+
+  
+</head>
+
+<body>
+  <html>
+  <head>
+    <title>fintech</title></head>
+  <body>
+    <nav>
+      <div class="nav-right flexbox">
+      <img src="http://i.imgur.com/N370JuZ.jpg" class="icon">
+      <ul class="nav">
+<li><a href="./fintech-about/index.html"><img src="http://i.imgur.com/nW6ZTEp.jpg" class="list"></a></li>
+        <li><a href="./service/index.html"><img src="http://i.imgur.com/dIFteFp.jpg" class="list"></a></li>
+       <li><a href=""><img src="http://i.imgur.com/6QdDbAT.jpg" class="list"></a></li>
+        <li><a href="./contact/index.html"><img src="http://i.imgur.com/bujvf9l.jpg" class="list"></a></li>
+      </ul>
+      </div>
+    </nav>
+    <div id="section1" class="flexbox">
+      <div id="text1" class="flexbox">
+        <div class="h1">FINTECH</div>
+        <div class="introduction">We Take the Weights <br> of Your Shoulders.</p></div>
+  </div>
+     <div id="home-image" class="flexbox">
+       <img src="http://i.imgur.com/2n0yiV0.png"
+      </div>
+    </div>
+    <div class="section">
+    </div>
+     <div class="section">
+    </div>
+  </body>
+</html>
+  
+  
+</body>
+</html>
