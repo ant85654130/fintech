@@ -1,0 +1,10 @@
+*{margin:0}
+body{font-family:century gothic;background-color:#50B686;}
+.background{background-color:#50B686;width:100%;height:100vh;}
+.h1word{padding-top:100px;}
+h1{color:white;font-weight:500;text-align:center;font-size:70px;letter-spacing:2px;}
+table{margin:0 auto;}
+.icon{width:320px}
+.name{text-align:center;color:white;font-size:25px;}
+.footer{background-color:white;width:100%;margin:0 auto;}
+.footimg{padding-left:45%}
