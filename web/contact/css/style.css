@@ -34,8 +34,8 @@ fieldset{width:100px;border:none;margin-left:80%;}
 .form-control{width:500px;
   height:40px;
   margin:5px;border:none;
-  border-radius:8px;
-  background-color:rgba(100%,100%, 100%, 0.4) ;}
+  border-radius:12px;
+  background-color:rgba(100%,100%, 100%, 0.4) ;outline:none;}
 
 .form-control::-webkit-input-placeholder { color: white; font-family:century gothic;font-weight:600;font-size:25px;line-height:40px;}
 
