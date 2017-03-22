@@ -2,6 +2,22 @@
 <html >
 <head>
   <meta charset="UTF-8">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script> 
+  $(document).ready(function(){
+    $(".info").mouseenter(function(){
+        $(".info").animate({
+ opacity: '1' });
+    }); 
+          $(".info").mouseleave(function(){
+        $(".info").animate({
+ opacity: '0.5'
+           
+       
+        });
+    });
+});
+</script>
   <title>news</title>
   
   
