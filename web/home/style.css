@@ -6,7 +6,7 @@ body{font-family:century gothic;width:100%;}
 
 
 .icon{width:120px;height:50px;padding-right:55%;padding-top:20px;}
-.list{width:50px;margin:8px;}
+.list{width:50px;margin:8px; cursor:pointer;}
 #section1 {width:100%;height:100vh;
  background-color:#50B686;
   flex-direction:row;
