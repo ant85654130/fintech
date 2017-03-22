@@ -12,5 +12,6 @@ img{width:230px;}
   width: 420px;
   height: 200px;}
 .button1{font-family:century gothic;width:170px;height:40px;color:white;background-color:#50B686;border:none;box-shadow:2px 2px 5px 3px rgba(20%,20%,40%,0.5);border-radius:3px;letter-spacing:1px;font-size:20px;}
-
+.button1:hover{color:#2CA798;background-color:white;border:2px #50B686 solid;border-radius:3px;box-shadow:inset 2px 2px 8px rgba(20%,20%,40%,0.5),2px 2px 10px rgba(20%,20%,40%,0.5);font-size:20px;}
 .button2{font-family:century gothic;width:170px;height:40px;color:#2CA798;background-color:white;border:2px #50B686 solid;border-radius:3px;box-shadow:inset 2px 2px 8px rgba(20%,20%,40%,0.5),2px 2px 10px rgba(20%,20%,40%,0.5);font-size:20px;}
+.button2:hover{color:white;background-color:#50B686;border:none;box-shadow:2px 2px 5px 3px rgba(20%,20%,40%,0.5);border-radius:3px;letter-spacing:1px;font-size:20px;}
