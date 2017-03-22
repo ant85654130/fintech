@@ -5,7 +5,7 @@ body{font-family:century gothic;background-color:#50B686;}
 h1{color:white;font-weight:500;text-align:center;font-size:70px;letter-spacing:2px;}
 table{margin:0 auto;}
 .icon{width:320px}
-.icon:hover{width:330px;-webkit-transition:width .3s}
+.icon:hover{transform:rotate(2rad);transition:.5s;}
 
 .name{text-align:center;color:white;font-size:25px;}
 .footer{background-color:white;width:100%;margin:0 auto;}
