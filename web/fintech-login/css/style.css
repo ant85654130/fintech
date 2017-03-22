@@ -8,6 +8,6 @@ fieldset{border:none;}
 .green{width:100%;}
 .form-control{font-family:century gothic;font-size:24px;color:white;background-color:#50B686;border:2px white solid;border-radius:40px;margin:15px;width:700px;height:95px;outline:none;}
 .form-control::-webkit-input-placeholder { color: white; }
-.login{background-color:#E83964;border:none;font-size:30px;}
+.login{background-color:#E83964;border:none;font-size:30px;cursor:pointer;}
 .login:hover{box-shadow:4px 4px 10px 10px rgba(100%,100%,100%,0.5)}
 p{font-size:20px;margin-top:20px;text-align:center;font-family:century gothic;color:white;}
