@@ -35,9 +35,9 @@ fieldset{width:100px;border:none;margin-left:80%;}
   height:40px;
   margin:5px;border:none;
   border-radius:12px;
-  background-color:rgba(100%,100%, 100%, 0.4) ;outline:none;}
+  background-color:rgba(100%,100%, 100%, 0.4) ;outline:none;color:white;padding-left:10px;}
 
-.form-control::-webkit-input-placeholder { color: white; font-family:century gothic;font-weight:600;font-size:25px;line-height:40px;}
+.form-control::-webkit-input-placeholder { color: white; font-family:century gothic;font-size:21px;line-height:40px;}
 
 .textarea{height:150px}
 
