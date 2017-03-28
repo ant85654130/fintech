@@ -10,5 +10,5 @@ fieldset{border:none;}
 .form-control:hover{box-shadow:1px 1px 10px 8px rgba(100%,100%,100%,0.3)}
 .form-control::-webkit-input-placeholder { color: white; }
 .login{background-color:#E83964;border:none;font-size:30px;cursor:pointer;}
-.login:hover{box-shadow:1px 1px 10px 8px rgba(100%,100%,100%,0.5)}
+.login:hover{box-shadow:1px 1px 10px 8px rgba(100%,100%,100%,0.5);transform: scale(1.1,1.1);transition:.3s;}
 p{font-size:20px;margin-top:20px;text-align:center;font-family:century gothic;color:white;}
