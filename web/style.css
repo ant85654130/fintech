@@ -2,7 +2,7 @@ body{font-family:century gothic;}
 *{margin:0;padding:0;}
 #wrapper{margin:0 auto;}
 .green{background-color:#50B686;float:left;width:49%;height:100vh;text-align:right;line-height:100vh;color:white;font-size:240px;letter-spacing:15px;}
-.logo{float:left;line-height:100vh;height:100vh;}
+.logo{float:left;line-height:100vh;height:100vh;padding-left:20%;}
 img{width:230px;}
 .white{background-color:white;float:left;width:49%;height:100vh;line-height:100vh;color:#50B686;font-size:240px;letter-spacing:3px;margin-left:25px;}
 
